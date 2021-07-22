@@ -1,4 +1,4 @@
-# ML-Algorithms-From-Scratch
+# Machine Learning Algorithms from Scratch
 
 **Supervised Learning**
 - Regression
