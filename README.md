@@ -13,9 +13,10 @@ In this repository I have collected various machine learning algorithms and atte
 - Association Rule Learning
 
 **Model Optimisation**
-- Model Assessment
-- Hyperparameter Tuning
 - Ensemble Methods
+- Feature Engineering
+- Model Selection and Assessment
+- Parameter Optimisation Algorithms
 
 **Deep Learning**
 - Feed Forward Neural Networks
